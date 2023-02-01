@@ -90,6 +90,9 @@ namespace LeonPrueba3.API
         public string nat { get; set; }
     }
 
+
+    /// CLASE QUE CREA UNA LISTA DE RESULTADOS-CLASE PRINCIPAL
+   
     public class Root
     {
         public List<Result> results { get; set; }

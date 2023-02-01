@@ -35,6 +35,9 @@
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
 
+            <Label
+                x:Name="API" />
+
         </VerticalStackLayout>
     </ScrollView>
 
